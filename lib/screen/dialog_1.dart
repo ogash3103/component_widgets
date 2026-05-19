@@ -72,7 +72,7 @@ class Dialog1 extends StatelessWidget {
                 Icon(Icons.mood_bad, size: 130, color: Colors.white),
                 SizedBox(height: 7.5),
                 Text(
-                  "YES!",
+                  "UH-SNAP!",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 22,
@@ -81,7 +81,7 @@ class Dialog1 extends StatelessWidget {
                 ),
                 SizedBox(height: 7.5),
                 Text(
-                  "Everything is woking..",
+                  "Something just broke..",
                   style: TextStyle(
                     color: Colors.white,
                     fontSize: 15,
